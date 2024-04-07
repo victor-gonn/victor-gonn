@@ -1,6 +1,6 @@
 ## Olá, me chamo João Victor, desenvolvedor mobile em Flutter
 
-Sou desenvolvedor junior em Flutter e nesse perfil estão alguns dos meus projetos.
+Sou desenvolvedor junior em Flutter e nesse perfil estão alguns dos meus projetos e ideias, e sim, sei que tem poucos commits ainda.
 
 - 🔭 Hoje trabalho principalmente com front-end, mas procuro me tornar Full Stack
 - 🌱 Estudando Flutter
